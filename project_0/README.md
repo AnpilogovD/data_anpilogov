@@ -29,25 +29,31 @@
 
 
 ### Краткая информация о данных
-....
+Используется библиотека numpy, для генератор рандомных чисел number (int, optional), 
+count = 0 # Переменная счетчик
+mn = 1 # Минимальное значение рассматриваемого интервала
+mx = 100 # Максимальное значение рассматриваемого интервала
+int: среднее количество попыток
   
 :arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом  
-....
+1. Проектирование метода работы алгоритма
+2. Создание алгоритма
+3. Оформление проекта
 
 :arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
-....
+Разработанный алгоритм  угадывает число в среднем за 6 попыток
 
 :arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
-....
+Удалось добиться высокой эффективности алгоритма
 
 :arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
