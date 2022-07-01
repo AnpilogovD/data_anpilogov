@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/AnpilogovD/data_anpilogov/tree/master/guess-number-task#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+[1. Описание проекта](https://github.com/AnpilogovD/data_anpilogov/blob/master/guess-number-task/.README.
 [2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
@@ -13,7 +13,7 @@
 
 :arrow_up:[к оглавлению](_)
 
-
+https://github.com/AnpilogovD/data_anpilogov/blob/master/guess-number-task/game.py
 ### Какой кейс решаем?    
 Нужно написать программу, которая угадывает число за минимальное число попыток
 
@@ -31,25 +31,25 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/guess-number-task)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/guess-number-task)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/guess-number-task)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/guess-number-task)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
