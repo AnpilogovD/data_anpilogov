@@ -12,7 +12,7 @@
  Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. 
 
 
-:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_1#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
 
 ### Какой кейс решаем?    
@@ -45,13 +45,13 @@
 ### Результаты:  
 Модель автоматически определяtn примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 Удалось добиться высокой эффективности алгоритма
 
-:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/AnpilogovD/data_anpilogov/tree/master/project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
